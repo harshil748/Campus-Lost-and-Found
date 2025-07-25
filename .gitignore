@@ -1,0 +1,28 @@
+# Android/IntelliJ
+*.iml
+.gradle
+/local.properties
+/.idea
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+
+# Keystore files (if any)
+*.jks
+
+# Node (if using React Native or Node scripts)
+node_modules
+
+# macOS-specific
+*.DS_Store
+
+# Log files
+*.log
+
+# APKs
+*.apk
+*.ap_
+
+# Jetpack Compose previews
+.idea/**/render.experimental.xml
