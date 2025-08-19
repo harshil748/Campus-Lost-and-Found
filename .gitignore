@@ -27,3 +27,17 @@ node_modules
 
 # Jetpack Compose previews
 .idea/**/render.experimental.xml
+# IDE files
+.idea/
+
+
+# Gradle files
+.gradle/
+build/
+
+
+# Other generated files
+
+*.aab
+captures/
+.externalNativeBuild/
